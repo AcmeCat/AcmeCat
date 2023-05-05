@@ -1,9 +1,10 @@
 # Hey Folks!
 
 <p>My name is Rory and I am a Software Engineer 😃</p>
-<p>I have independantly taught myself the the fundamendatls of programming, but have recently formalised my knowledge with a Bachelor of Information Technology.</p>
+<p>I have independantly taught myself the the fundamendtals of programming, but have recently formalised my knowledge with a Bachelor of Information Technology.</p>
 <p>I have previously worked professionally as a full stack web developer. However, I am currently focussing my attention on developing cloud-backed iOS and Android applications.</p>
 
+##My Github Activity
 
 <!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="200"/>
