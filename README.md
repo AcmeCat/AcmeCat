@@ -4,10 +4,7 @@
 <p>I've been avid programmer for more than a decade, and have recently formalised my knowledge with a Bachelor of Information Technology.</p>
 <p>I have previously worked professionally as a full stack web developer. However, I am currently focussing my attention on developing cloud-backed iOS and Android applications.</p>
 
-## My Github Activity
-Some stuff
 ---
-
 ### :hammer_and_wrench: Tools I Use:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -27,9 +24,16 @@ Some stuff
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
+### My Github Activity
+
+<p>Some stuff</p>
+
+
 <!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="200"/>
 </div> -->
+---
 ### You can find me here:
 <div id="badges">
   <a href="https://www.linkedin.com/in/fey-pact-warlock/">
