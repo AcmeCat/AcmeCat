@@ -1,8 +1,8 @@
 # Hey Folks 👋
 
-My name is Rory and I am a Software Engineer 😃
-I have many years of independant education, but have recently formalised my knowledge with a Bachelor of Information Technology.
-I have worked professionally as a full stack web developer, but currently I am focussing my attention on developing cloud-backed iOS and Android applications.
+<p>My name is Rory and I am a Software Engineer 😃</p>
+<p>I have many years of independant education, but have recently formalised my knowledge with a Bachelor of Information Technology.</p>
+<p>I have worked professionally as a full stack web developer, but currently I am focussing my attention on developing cloud-backed iOS and Android applications.</p>
 
 
 <!-- <div id="header" align="center">
