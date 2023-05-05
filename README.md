@@ -1,4 +1,4 @@
-### Hey Folks 👋
+# Hey Folks 👋
 
 <!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="200"/>
