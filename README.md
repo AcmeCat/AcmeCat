@@ -2,7 +2,7 @@
 
 <p>My name is Rory and I am a Software Engineer 😃</p>
 <p>I have independantly taught myself the the fundamendatls of programming, but have recently formalised my knowledge with a Bachelor of Information Technology.</p>
-<p>I have worked professionally as a full stack web developer, but currently I am focussing my attention on developing cloud-backed iOS and Android applications.</p>
+<p>I have previously worked professionally as a full stack web developer. However, I am currently focussing my attention on developing cloud-backed iOS and Android applications.</p>
 
 
 <!-- <div id="header" align="center">
