@@ -1,4 +1,4 @@
-# Hey Folks 👋
+# Hey Folks!
 
 <p>My name is Rory and I am a Software Engineer 😃</p>
 <p>I have many years of independant education, but have recently formalised my knowledge with a Bachelor of Information Technology.</p>
