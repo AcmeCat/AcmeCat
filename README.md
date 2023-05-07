@@ -1,11 +1,10 @@
 # Hey Folks!
 
 <p>My name is Rory and I am a Software Engineer 😃</p>
-I've been avid programmer for more than a decade, and have recently formalised my knowledge with a .
+I've been avid programmer for more than a decade, and have recently formalised my knowledge with a [Bachelor of Information Technology](https://google.com)
 <p>I have previously worked professionally as a full stack web developer. However, I am currently focussing my attention on developing cloud-backed iOS and Android applications.</p>
 
 ---
-[Bachelor of Information Technology](https://google.com)
 ### :hammer_and_wrench: Tools I Use:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
