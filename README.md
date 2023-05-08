@@ -28,7 +28,7 @@ I have previously worked professionally as a full stack web developer. However, 
 ### :fire: My Github Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AcmeCat&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AcmeCat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AcmeCat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="200"/>
