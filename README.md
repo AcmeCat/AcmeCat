@@ -33,8 +33,9 @@ I have previously worked professionally as a full stack web developer. However, 
 ---
 
 ### :fire: My Github Stats :
-
+<div>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AcmeCat&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AcmeCat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <div id="header" align="center">
