@@ -33,6 +33,7 @@ I have previously worked professionally as a full stack web developer. However, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>
 </div>
+
 ---
 
 ### :fire: My Github Stats :
