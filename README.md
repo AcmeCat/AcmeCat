@@ -2,9 +2,11 @@
 
 My name is Rory and I am a Software Engineer 😃   
    
-I've been an avid programmer for more than a decade, and have recently formalised my knowledge with a [Bachelor of Information Technology](https://github.com/AcmeCat/documents/blob/main/Testamur.pdf)  
+I've been an avid programmer for more than a decade, have formalised my knowledge with a [Bachelor of Information Technology](https://github.com/AcmeCat/documents/blob/main/Testamur.pdf) and am currently upskilling in advanced iOS architecture.
    
-I have previously worked professionally as a full stack web developer. However, I am currently focussing my attention on developing cloud-backed iOS and Android applications.
+I have previously worked professionally as a full stack web developer.
+I have published 2 Apps to the iOS App Store.
+I am an advocate for TDD and SOLID principles.
 
 ---
 ### :hammer_and_wrench: Tools I Use Often:
@@ -44,21 +46,12 @@ I have previously worked professionally as a full stack web developer. However, 
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AcmeCat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="200"/>
-</div> -->
 ---
 ### You can find me here:
 <div id="badges">
   <a href="https://www.linkedin.com/in/fey-pact-warlock/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<!--   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="GMail Badge"/>
-  </a>
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Discord Badge"/>
-  </a> -->
 </div>
 <!--
 **AcmeCat/AcmeCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
