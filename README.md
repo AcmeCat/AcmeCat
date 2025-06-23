@@ -2,9 +2,9 @@
 
 My name is Rory and I am a Software Engineer 😃   
    
-I've been an avid programmer for more than a decade, have formalised my knowledge with a [Bachelor of Information Technology](https://github.com/AcmeCat/documents/blob/main/Testamur.pdf) and am currently upskilling in advanced iOS architecture.
+I've been an avid programmer for more than a decade, have formalised my knowledge with a [Bachelor of Information Technology](https://github.com/AcmeCat/documents/blob/main/Testamur.pdf) and am currently upskilling in [advanced iOS architecture](https://academy.essentialdeveloper.com/achievements/6f8fc680-81dc-4ab2-85c9-4b4dda26a7c0).
    
-I have previously worked professionally as a full stack web developer.
+I have worked professionally as a full stack web developer.
 I have published 2 Apps to the iOS App Store.
 I am an advocate for TDD and SOLID principles.
 
@@ -40,10 +40,10 @@ I am an advocate for TDD and SOLID principles.
 
 ### :fire: My Github Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AcmeCat&theme=dark&background=000000)](https://git.io/streak-stats)   
-<div>
-</div>
-   
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=AcmeCat&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AcmeCat&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AcmeCat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
